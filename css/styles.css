@@ -166,7 +166,7 @@ p{
     }
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:360px) {
     .sln_sig_building_img{
         width: 250px;
         height: 300px;
